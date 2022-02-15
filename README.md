@@ -1,9 +1,5 @@
 # Hi there 👋
 
-🌏 https://www.ryanshoobert.dev
-
-</br>
-
 🌱 I’m currently learning golang and provisioning aws resources using terraform </br>
 👯 I’m looking to collaborate on something new and interesting... so, no to-do lists please </br>
 😄 Pronouns: He/Him </br>
@@ -22,4 +18,6 @@
 
 </br>
 
-## Stats
+## Pointless Stats
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshoobert&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
