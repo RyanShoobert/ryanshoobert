@@ -1,8 +1,11 @@
 # Hi there 👋
 
-🌱 I’m currently learning golang and provisioning aws resources using terraform </br>
-👯 I’m looking to collaborate on something new and interesting... so, no to-do lists please </br>
-😄 Pronouns: He/Him </br>
+🌱 I’m currently learning golang and provisioning aws resources using terraform
+
+👯 I’m looking to collaborate on something new and interesting... so, no to-do lists please
+
+😄 Pronouns: He/Him
+
 ⚡ Fun fact: No fun fact found
 
 ## Technologies & Languages
