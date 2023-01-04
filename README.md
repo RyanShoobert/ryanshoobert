@@ -4,7 +4,9 @@
 
 ## About Me
 
+- Backend Engineer
 - Always enjoy playing with new tools and exploring new features
+- `null`
 
 ## Languages
 
