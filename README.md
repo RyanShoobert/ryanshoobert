@@ -1,26 +1,30 @@
-# Hi there 👋
+# Ryan Shoobert 👨🏼‍💻 <sub><sup>_(he/him)_</sup></sub>
 
-🌱 I’m currently learning golang and provisioning aws resources using terraform
+![Profile View Counter](https://komarev.com/ghpvc/?username=RyanShoobert)
 
-👯 I’m looking to collaborate on something new and interesting... so, no to-do lists please
+## About Me
 
-😄 Pronouns: He/Him
+- Always enjoy playing with new tools and exploring new features
 
-⚡ Fun fact: No fun fact found
+## Languages
 
-## Technologies & Languages
+- C#
+- Golang
+- Java
+- Python
+- C/C++
 
-<img align="left" alt="c-sharp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+## Technologies
 
-</br>
+- Terraform 🧱
+- Azure ☁️
+- AWS ☁️
+- Git 🌳
+- GitHub Actions 😺
+- Azure DevOps ⚙️
+- Firebase 🔥
 
-## Pointless Stats
+## Statistics
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshoobert&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RyanShoobert&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanShoobert&theme=blue-green)
